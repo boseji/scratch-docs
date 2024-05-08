@@ -7,3 +7,9 @@
 In this monthly install of Arch Linux, I am going to install it with the BTRFS file system, encryption, systemd-boot, ZRAM, KDE and Timeshift.
 
 Public Repo: <https://gitlab.com/eflinux/arch-basic>
+
+----
+<!-- Footer Begins Here -->
+## Links
+
+- [Back to Root Document](../README.md)

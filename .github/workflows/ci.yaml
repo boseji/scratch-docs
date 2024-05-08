@@ -2,6 +2,9 @@ name: Send repository dispatch event
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 # Article: How to trigger a GitHub action workflow in another repository
 # https://dev.to/ngnijland/how-to-trigger-a-github-action-workflow-in-another-repository-k3k

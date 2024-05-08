@@ -2,9 +2,14 @@
 
 > ***एक रचनात्मक भारतीय उत्पाद।***
 
-# अस्थायी टिप्पणी पुस्तक
+# अस्थायी टिप्पणी पुस्तक (Scratch Pad Notebook)
 
 बाद में उपयोग के लिए कुछ अनियमित टिप्पणियाँ।
+
+## संग्रह (Collection)
+
+- **[LIB](./LIB/README.md)** - Collection of documents & Library.
+- **[LOG](./LOG/README.md)** - Activity logs of Projects.
 
 ## अनुज्ञापत्र अथवा `लाइसेंस` (License)
 

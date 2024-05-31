@@ -12,6 +12,13 @@ Home Page <https://wokwi.com/>
 
 <https://wokwi.com/projects/new/blank>
 
+
+## Building a custom I2C chip for Wokwi simulation - PCF8575 [full walkthrough]
+
+<https://www.youtube.com/watch?v=BS_uTqz3zik>
+
+![type:video](https://www.youtube.com/embed/BS_uTqz3zik)
+
 ----
 <!-- Footer Begins Here -->
 ## Links

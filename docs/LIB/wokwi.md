@@ -8,7 +8,9 @@ Home Page <https://wokwi.com/>
 
 ![type:video](https://www.youtube.com/embed/yzdCS3A4DvU)
 
+### Blank WokWi Project
 
+<https://wokwi.com/projects/new/blank>
 
 ----
 <!-- Footer Begins Here -->

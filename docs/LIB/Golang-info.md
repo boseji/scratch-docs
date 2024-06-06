@@ -26,6 +26,14 @@ Help & Docs:
 <https://templ.guide/>
 
 
+## How To Build A Custom TCP Server In Golang!?
+
+<https://www.youtube.com/watch?v=qJQrrscB1-4>
+
+![type:video](https://www.youtube.com/embed/qJQrrscB1-4)
+
+
+
 ----
 <!-- Footer Begins Here -->
 ## Links

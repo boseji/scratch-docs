@@ -20,6 +20,12 @@ Homepage <https://htmx.org/>
 
 ![type:video](https://www.youtube.com/embed/F9H6vYelYyU)
 
+## FULL Introduction To HTMX Using Golang
+
+<https://www.youtube.com/watch?v=x7v6SNIgJpE>
+
+![type:video](https://www.youtube.com/embed/x7v6SNIgJpE)
+
 
 ----
 <!-- Footer Begins Here -->

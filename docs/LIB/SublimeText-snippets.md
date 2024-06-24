@@ -1,6 +1,9 @@
 # Sublime Text Snippets
 
-Sublime Documentation <https://docs.sublimetext.io/guide/extensibility/snippets.html>
+Sublime Documentation <https://www.sublimetext.com/docs/completions.html#snippets>
+
+Sublime Unofficial Documentation <https://docs.sublimetext.io/guide/extensibility/snippets.html>
+
 Source <https://www.geeksforgeeks.org/how-to-create-snippets-in-sublime-text/>
 
 - Go to the `Tools` menu

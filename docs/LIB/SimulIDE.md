@@ -1,6 +1,6 @@
 # SimulIDE Circuit Simulator
 
-![SimulIDE Logo](src="https://simulide.com/p/storage/2023/11/simulide_circ.png" "SimulIDE Logo")
+![SimulIDE Logo](https://simulide.com/p/storage/2023/11/simulide_circ.png "SimulIDE Logo")
 
 Home Page <https://simulide.com/>
 

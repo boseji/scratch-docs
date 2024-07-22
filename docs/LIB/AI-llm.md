@@ -36,6 +36,15 @@ Current Working Link: (LibreWolf, Mullvad)
     - Totm 10 AI Voice Generators 2024
     - <https://www.youtube.com/watch?v=hxnTwyx8GS8>
 
+## AI Voice and Video Content Generators
+
+- RecordOnce <https://recordonce.com/pricing>
+
+	- Directly record and correct Videos
+	- Single Take to create a professional video, AI automates the creation process.
+  
+
+
 ----
 <!-- Footer Begins Here -->
 ## Links

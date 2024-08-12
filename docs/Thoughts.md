@@ -113,6 +113,101 @@ Focus on results, rather than Tech used.
 
 ---
 
+## Jan 11th, 2024
+
+> Actively ignore the subject of your dislike !
+> You can't change any one other than yourself.
+>
+> **an overzealous parent.**
+
+## Jan 17th, 2024
+
+Good refresher on AC Root Mean Square Values (RMS)
+
+> **Understanding RMS Values in AC Circuits √2  ? | Voltage | Current**
+> 🔍 Dive deep into the world of AC circuits with our comprehensive tutorial! In this video, we demystify RMS values
+> 
+
+<https://www.youtube.com/watch?v=3Et8xqC-764>
+
+![type:video](https://www.youtube.com/embed/3Et8xqC-764)
+
+## Jan 19th, 2024
+
+> Silence is the divine secret.
+>
+> **Bhagwat Geeta**
+
+## Jan 20th, 2024
+
+> One can't be totally isolated from influences.
+> But, one should always peruse sound reasoning and healthy paranoia.
+>
+> **boseji**
+
+## Jan 21st, 2024
+
+Few minutes of peace and harmony any where any time.
+
+> **Daily Calm | 10 Minute Mindfulness Meditation | Be Present**
+> Tamara Levitt guides this 10 minute Daily Calm mindfulness meditation to powerfully restore and re-connect with the present.
+
+<https://www.youtube.com/watch?v=ZToicYcHIOU>
+
+![type:video](https://www.youtube.com/embed/ZToicYcHIOU)
+
+## Jan 22nd, 2024
+
+> **LIVE - Consecration Ceremony of Ram Mandir | Ayodhya Dham | 22nd January 2024**
+> Join us for an unprecedented moment in history – the Ram Temple consecration ceremony in Ayodhya, Uttar Pradesh.
+
+<https://www.youtube.com/watch?v=c1Cnoc3qvG0>
+
+![type:video](https://www.youtube.com/embed/c1Cnoc3qvG0)
+
+## Jan 23rd, 2024
+
+> **Construction of Shri Ram Janmabhoomi Temple (Off. 3D Movie) by Shri Ram Janmabhoomi Teertha Kshetra**
+> The Construction of Grand and Divine Shri Ram Janmabhoomi Temple  is going on in full swing.
+
+<https://www.youtube.com/watch?v=lyFazCoV7UI>
+
+![type:video](https://www.youtube.com/embed/lyFazCoV7UI)
+
+## Jan 23rd, 2024
+
+> No Real change in history has ever been achieved by discussions.
+>
+> Freedom is not given - it is taken.
+>
+> **Netaji Subhash Chandra Bose**
+> ***(Leaving INC, 1938)***
+
+## Jan 27th, 2024
+
+[Indian Knowledge Systems 2024 Calendar](Thoughts/IKS_IITKGP_Calendar_2024-2_231216_131702.pdf).
+
+May sellers did not give us this but its easy to get a color printout of this.
+
+## Jan 28th, 2024
+
+> Whether something has value or not in your life, you need to decide that for yourself. 
+>
+> Don't let others intervene, unless its wisdom.
+>
+> **A worried Manager**
+
+## Jan 29th, 2024
+
+> Solve the issues when the time comes,
+>
+> Not before starting project.
+>
+> Focus on results, rather than on tech used.
+>
+> **boseji (Resolution of 2024)**
+
+
 ----
 <!-- Footer Begins Here -->
 ## Links

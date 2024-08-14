@@ -7,6 +7,18 @@ MQTT is probably best known as a lightweight messaging protocol implemented for 
 - [MQTT.js](https://github.com/mqttjs/MQTT.js)
 - [Mosquitto™](https://test.mosquitto.org/)
 
+#### References for MQTT using WebPages
+
+- How to communicate an ESP32 with a web page via MQTT
+
+	<https://www.luisllamas.es/en/how-to-communicate-an-esp32-with-a-web-page-through-mqtt/>
+
+- MQTT Web dashboard | MQTT Web App using HTML , CSS and Java Script (Video)
+  
+	<https://www.youtube.com/watch?v=rlnhd67PV-M>
+
+	![type:video](https://www.youtube.com/embed/rlnhd67PV-M)
+
 ## Sample code for MQTT in HTML Page
 
 It's very simple, but the following code should work. You should see `{"name": "sensor1", "temp": 10}` in your browser console. As a scenario, I made it so that `sensor1` in `floor1/room1` is sending the temperature. MQTT topics are generally hierarchical with `/`.

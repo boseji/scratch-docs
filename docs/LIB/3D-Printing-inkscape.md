@@ -1,5 +1,6 @@
 # 3D Printing with Inkscape
 
+Original Idea <https://www.tomshardware.com/how-to/design-and-3d-print-custom-cases>
 
 ## How To Design and 3d Print Your Own Custom Case From Mechanical Drawings With Inkscape! RPi Pico
 

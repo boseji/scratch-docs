@@ -10,6 +10,19 @@ on TP-Link W8970
 
 [PDF Document](./OpenWRT-TP-Link-TD-W8970_v1.pdf) for the same.
 
+Internal Picture:
+
+[![Top Side inside the TP-Link W8970 Router](./td-w8970_internal.jpg "Top Side inside the TP-Link W8970 Router")](./td-w8970_internal.jpg)
+
+Marked Up locations:
+
+[![Marked up parts in the TP-Link W8970 Router](./td-w8970_hardware_labeled.png "Marked up parts in the TP-Link W8970 Router")](./td-w8970_hardware_labeled.png)
+
+Serial Port Location:
+
+[![Location of Serial Port Pin in the TP-Link W8970 Router](./td-w8970_serial-jtag.jpg "Location of Serial Port Pin in the TP-Link W8970 Router")](./td-w8970_serial-jtag.jpg)
+
+
 ### Command Sequence
 
 1. Download the setup the TFTP Server, Also Download the Bin File Image for

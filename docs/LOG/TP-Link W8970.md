@@ -23,7 +23,7 @@ Serial Port Location:
 [![Location of Serial Port Pin in the TP-Link W8970 Router](./td-w8970_serial-jtag.jpg "Location of Serial Port Pin in the TP-Link W8970 Router")](./td-w8970_serial-jtag.jpg)
 
 
-### Command Sequence
+### Command Sequence to Load the new OpenWRT Image via TFTP
 
 1. Download the setup the TFTP Server, Also Download the Bin File Image for
 sys upgrade:

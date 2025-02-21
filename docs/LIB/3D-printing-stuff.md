@@ -66,6 +66,34 @@ The Solder Scroll allows you to easily add solder of different diameters.
 
 <https://www.thingiverse.com/thing:6654828>
 
+## More links
+
+Low profile right angle screwdriver handle
+
+<https://www.thingiverse.com/thing:6822499>
+
+One Piece Keychains
+
+<https://www.thingiverse.com/thing:5271518>
+
+one piece
+
+<https://www.thingiverse.com/thing:1759767>
+
+Tactile Triangle Teaching Tool - 3DPrinty
+
+<https://www.thingiverse.com/thing:6811412>
+
+DIN Rail Switch / Hutschienen-Schalter
+
+<https://www.thingiverse.com/thing:4848641>
+
+DIN rail stand XL
+
+<https://www.thingiverse.com/thing:3724876>
+
+
+
 ----
 <!-- Footer Begins Here -->
 ## Links

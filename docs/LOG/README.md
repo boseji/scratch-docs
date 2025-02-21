@@ -2,9 +2,28 @@
 
 All activity logs of projects goes here.
 
-## Marker
-
 ## Random Notes
+
+----
+
+Software engineering job openings hit five-year low? `2025-02-21 Fri 08:46.11`
+
+<https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/>
+
+Downfall with rise of AI and LLMs.
+
+----
+
+How browsers REALLY load Web pages
+
+<https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/>
+
+Strange priories of loading resources and each one unique.
+There are some ways around it but hope it improves.
+
+The hilarious last part how HTTP3/Works.
+
+----
 
 The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA 
 

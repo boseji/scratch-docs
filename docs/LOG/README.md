@@ -251,7 +251,7 @@ https://hackaday.com/2025/01/08/tech-in-plain-sight-security-envelopes/
 
 https://operating-system-in-1000-lines.vercel.app/en
 
-
+https://hackaday.com/2025/02/22/the-perfect-pi-pico-portable-computer/
 ----
 <!-- Footer Begins Here -->
 ## Links

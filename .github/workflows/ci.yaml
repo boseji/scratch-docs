@@ -14,7 +14,18 @@ on:
 # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#repository_dispatch
 # Need to Get and Renew a Personal Access Token (Classic) with all Repo permissions.
 # Old: ${{ secrets.REPOSITORY_ACCESS_TOKEN }}
-# Updating to Fine Grained Access Token
+# Updating to Fine Grained Access Token - 2025-08-17
+# Refer to Docs: https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#create-a-repository-dispatch-event
+# Note:
+# The fine-grained token must have the following permission set:
+#
+# - "Contents" repository permissions (write)
+#
+# This is equal to : Repository permissions
+# - Read and Write access to code
+# - Read access to metadata
+#
+# Update the Token every 90 days.
 
 jobs:
   trigger-event:

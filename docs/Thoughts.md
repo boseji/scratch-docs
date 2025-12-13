@@ -99,6 +99,8 @@ Focus on results, rather than Tech used.
 >  When thinking about financial independence and financial education, few names resonate as profoundly as Warren Buffet.
 >
 
+**[PDF](./Thoughts/Warren-Buffett_10-Things-Waste-Money.pdf)** of the above link.
+
 ## Jan 3rd, 2024
 
 > If you don’t find a way to make money while you sleep, you will work until you die.
@@ -136,7 +138,7 @@ Good refresher on AC Root Mean Square Values (RMS)
 
 > Silence is the divine secret.
 >
-> **Bhagwat Geeta**
+> **Bhagwat Gita**
 
 ## Jan 20th, 2024
 
@@ -207,6 +209,18 @@ May sellers did not give us this but its easy to get a color printout of this.
 >
 > **boseji (Resolution of 2024)**
 
+## Feb 3rd, 2024
+
+A special Sieve:
+
+![Special Sieve Design](./Thoughts/2024-02-03.jpg "Special Sieve Design")
+
+## Feb 5, 2024
+
+> If you don't separate yourself from distractions,
+> your distractions will separate you from your goals.
+>
+> **Steve Harvey**
 
 ----
 <!-- Footer Begins Here -->

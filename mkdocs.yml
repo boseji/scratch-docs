@@ -92,10 +92,17 @@ extra_javascript:
 plugins:
   - search:
       lang: en
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
   - no-sitemap
-  - mkdocs-video
+  - mkdocs-video:
+      video_controls: True
+      css_style:
+        width: "60vw"
+        height: "30vw"
+        # width: "560"
+        # height: "320"
 
 markdown_extensions:
   - pymdownx.highlight:

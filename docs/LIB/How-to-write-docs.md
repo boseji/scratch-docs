@@ -1,6 +1,6 @@
 # How to Write Best documentation for yourself
 
-## Writing Documentation for Your House 
+## Writing Documentation for Your House
 
 <https://luke.hsiao.dev/blog/housing-documentation/>
 

@@ -11,13 +11,13 @@ MQTT is probably best known as a lightweight messaging protocol implemented for 
 
 - How to communicate an ESP32 with a web page via MQTT
 
-	<https://www.luisllamas.es/en/how-to-communicate-an-esp32-with-a-web-page-through-mqtt/>
+    <https://www.luisllamas.es/en/how-to-communicate-an-esp32-with-a-web-page-through-mqtt/>
 
 - MQTT Web dashboard | MQTT Web App using HTML , CSS and Java Script (Video)
-  
-	<https://www.youtube.com/watch?v=rlnhd67PV-M>
 
-	![type:video](https://www.youtube.com/embed/rlnhd67PV-M)
+    <https://www.youtube.com/watch?v=rlnhd67PV-M>
+
+    ![type:video](https://www.youtube.com/embed/rlnhd67PV-M)
 
 ## Sample code for MQTT in HTML Page
 
@@ -54,7 +54,7 @@ client.end();
 ```
 
 * When throwing MQTT from a browser, it is common to use `MQTT over WebSocket` since you can't throw it directly.
-* Therefore, the protocol specification in the URI should be `wss://test.mosquitto.org:8081`. 
+* Therefore, the protocol specification in the URI should be `wss://test.mosquitto.org:8081`.
 
 ### MQTT Publish periodically, like a sensor from HTML Page
 
@@ -70,7 +70,7 @@ Change the code to send data periodically.
   <script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
 </head>
 
-<body> 
+<body>
 
 <script>
 let client = mqtt.connect('wss://test.mosquitto.org:8081');

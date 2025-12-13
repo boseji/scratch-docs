@@ -25,7 +25,7 @@ The hilarious last part how HTTP3/Works.
 
 ----
 
-The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA 
+The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA
 
 <https://github.com/BelfrySCAD/BOSL2>
 
@@ -96,19 +96,19 @@ Software
 
 - OpenWrt USB Guest configuration
 
-	<https://openwrt.org/docs/guide-user/hardware/usb_gadget>
+    <https://openwrt.org/docs/guide-user/hardware/usb_gadget>
 
 - OpenWrt OTG Serial Config
 
-	<https://gist.github.com/odevodyssey/d330b9253cc34bcc978dbe415e041f54>
+    <https://gist.github.com/odevodyssey/d330b9253cc34bcc978dbe415e041f54>
 
 - OpenWrt OTG Serial And Ethernet Config
 
-	<https://gist.github.com/odevodyssey/5b14d3105dc20fbb55120ad2b3731937>
+    <https://gist.github.com/odevodyssey/5b14d3105dc20fbb55120ad2b3731937>
 
 - OpenWrt OTG Ethernet Config
 
-	<https://gist.github.com/odevodyssey/37d4bdaa89a29d40f760ea44c6a12e59>
+    <https://gist.github.com/odevodyssey/37d4bdaa89a29d40f760ea44c6a12e59>
 
 OpenWrt Packages Used
 
@@ -117,7 +117,7 @@ OpenWrt Packages Used
 kmod-usb-dwc2
 kmod-usb-gadget-serial
 
-# Serial and Ethernet 
+# Serial and Ethernet
 kmod-usb-dwc2
 kmod-usb-gadget-cdc-composite
 
@@ -213,7 +213,7 @@ This is 2 hour Video for C Story
 
 Header only library for writing build recipes in C.
 
-Its a full build tool for code but build into the code. 
+Its a full build tool for code but build into the code.
 
 <https://github.com/tsoding/nob.h>
 

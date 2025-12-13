@@ -41,7 +41,7 @@ Small component Cabinet. A beautiful mix of 3D printing and Foam board Art.
 
 ## Dec 9th, 2023
 
-> Belief bestows blessings upon those, who enamor the essence of persistence towards ones own destiny. 
+> Belief bestows blessings upon those, who enamor the essence of persistence towards ones own destiny.
 >
 > **boseji**
 
@@ -52,7 +52,7 @@ Small component Cabinet. A beautiful mix of 3D printing and Foam board Art.
 > It's cowardice and depreciating.
 >
 > Instead question - How can I ?, or How do I ?.
-> 
+>
 > You have learned the secret to be wealth and wisdom.
 >
 > **Rich Dad Poor Dad (Robert Kiyosaki)**
@@ -128,7 +128,7 @@ Good refresher on AC Root Mean Square Values (RMS)
 
 > **Understanding RMS Values in AC Circuits √2  ? | Voltage | Current**
 > 🔍 Dive deep into the world of AC circuits with our comprehensive tutorial! In this video, we demystify RMS values
-> 
+>
 
 <https://www.youtube.com/watch?v=3Et8xqC-764>
 
@@ -193,7 +193,7 @@ May sellers did not give us this but its easy to get a color printout of this.
 
 ## Jan 28th, 2024
 
-> Whether something has value or not in your life, you need to decide that for yourself. 
+> Whether something has value or not in your life, you need to decide that for yourself.
 >
 > Don't let others intervene, unless its wisdom.
 >

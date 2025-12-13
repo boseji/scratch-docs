@@ -28,16 +28,16 @@ Serial Port Location:
 1. Download the setup the TFTP Server, Also Download the Bin File Image for
 sys upgrade:
 
-	<https://openwrt.org/toh/tp-link/td-w8970_v1#installation>
+    <https://openwrt.org/toh/tp-link/td-w8970_v1#installation>
 
-	Go for the "Firmware OpenWrt Upgrade URL"
-	<https://downloads.openwrt.org/releases/23.05.5/targets/lantiq/xrx200/openwrt-23.05.5-lantiq-xrx200-tplink_tdw8970-squashfs-sysupgrade.bin>
+    Go for the "Firmware OpenWrt Upgrade URL"
+    <https://downloads.openwrt.org/releases/23.05.5/targets/lantiq/xrx200/openwrt-23.05.5-lantiq-xrx200-tplink_tdw8970-squashfs-sysupgrade.bin>
 
 2. Solder Wires to the Serial Port
 
-	<https://openwrt.org/toh/tp-link/td-w8970_v1#opening_the_case>
+    <https://openwrt.org/toh/tp-link/td-w8970_v1#opening_the_case>
 
-	More info on location of the Pins here.
+    More info on location of the Pins here.
 
 3. Connect Serial port to PC and setup Serial Terminal
 
@@ -46,14 +46,14 @@ sys upgrade:
 
 5. Configure you Ethernet network with:
 
-	```
-	IP 192.168.1.2
-	SUB 255.255.255.0
-	GW 192.168.1.1
-	```
+    ```
+    IP 192.168.1.2
+    SUB 255.255.255.0
+    GW 192.168.1.1
+    ```
 
-	As static configuration. Connect Ethernet between PC and router.
-	Disable Wireless for now.
+    As static configuration. Connect Ethernet between PC and router.
+    Disable Wireless for now.
 
 6. Copy the .bin file to the TFTP Server Folder `/var/lib/tftpboot`
 
@@ -61,57 +61,57 @@ sys upgrade:
 
 8. Type the Configuration commands in the Serial Terminal
 
-	a. Set the IP Address for Router
+    a. Set the IP Address for Router
 
-	```sh
-	setenv ipaddr 192.168.1.1
-	```
+    ```sh
+    setenv ipaddr 192.168.1.1
+    ```
 
-	b. Set the IP Address of the PC
+    b. Set the IP Address of the PC
 
-	```sh
-	setenv serverip 192.168.1.2
-	```
+    ```sh
+    setenv serverip 192.168.1.2
+    ```
 
-	c. Set Board Type
+    c. Set Board Type
 
-	```sh
-	setenv bootargs 'board=WD8970'
-	```
+    ```sh
+    setenv bootargs 'board=WD8970'
+    ```
 
-	d. Set the Image to be downloaded from TFTP
+    d. Set the Image to be downloaded from TFTP
 
-	```sh
-	tftpboot 0x81000000 openwrt-23.05.5-lantiq-xrx200-tplink_tdw8970-squashfs-sysupgrade.bin
-	```
+    ```sh
+    tftpboot 0x81000000 openwrt-23.05.5-lantiq-xrx200-tplink_tdw8970-squashfs-sysupgrade.bin
+    ```
 
-	This would take some time and will print the size of the file download:
+    This would take some time and will print the size of the file download:
 
-	```
-	72025b
-	```
+    ```
+    72025b
+    ```
 
-	e. Erase the RootFS area
+    e. Erase the RootFS area
 
-	```sh
-	sf erase 0x20000 0x7a0000
-	```
+    ```sh
+    sf erase 0x20000 0x7a0000
+    ```
 
-	This would take some time to finish. Please wait.
+    This would take some time to finish. Please wait.
 
-	f. Write the Image from the Ram to Flash
+    f. Write the Image from the Ram to Flash
 
-	```
-	sf write 0x81000000 0x20000 0x$(filesize)
-	```
-	This again will take some time to finish. Don't worry about the `filesize`
-	part it would be automatically be taken care.
+    ```
+    sf write 0x81000000 0x20000 0x$(filesize)
+    ```
+    This again will take some time to finish. Don't worry about the `filesize`
+    part it would be automatically be taken care.
 
-	g. Finally Reset the Router with new firmware
+    g. Finally Reset the Router with new firmware
 
-	```sh
-	reset
-	```
+    ```sh
+    reset
+    ```
 
 9. Now Disconnect the cable from PC and reset the Ethernet configuration
 to a DHCP type to get the IP from Router.

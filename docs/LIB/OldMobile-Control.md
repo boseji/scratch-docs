@@ -8,7 +8,7 @@ Forget About Raspberry Pi! Use Your Old Phone Instead.
 
 ![type:video](https://www.youtube.com/embed/iobvVl8jZ5o)
 
-Repository for the Android Code 
+Repository for the Android Code
 
 <https://github.com/michalin/Android_UsbIO>
 

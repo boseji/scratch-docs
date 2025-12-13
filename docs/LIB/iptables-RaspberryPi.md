@@ -74,7 +74,7 @@ Copy the following text into the editor:
 
 -A FORWARD -j DROP
 
-COMMIT 
+COMMIT
 ```
 
 The above block will create a set of Firewall rules which will block all access to your machine except for SSH.

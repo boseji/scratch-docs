@@ -1,6 +1,6 @@
 # Easy OS
 
->EasyOS was born in January 2017, and since then there have been bits and pieces written here and there about how and why it is different from other Linux distributions. This includes some rather technical descriptions. What is needed is a simple plain-English list, so that anyone can get a quick idea of what EasyOS is all about. 
+>EasyOS was born in January 2017, and since then there have been bits and pieces written here and there about how and why it is different from other Linux distributions. This includes some rather technical descriptions. What is needed is a simple plain-English list, so that anyone can get a quick idea of what EasyOS is all about.
 
 Home Page : <https://easyos.org/>
 

@@ -6,7 +6,7 @@ Bluetooth HID using just an ESP32 (inc Bluetooth macro keypad)
 
 ![type:video](https://www.youtube.com/embed/4sIkW7wogrE)
 
-Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible) 
+Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)
 
 <https://github.com/T-vK/ESP32-BLE-Keyboard>
 

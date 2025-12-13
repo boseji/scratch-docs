@@ -3,7 +3,7 @@ site_name: अस्थायी टिप्पणी पुस्तक
 site_description: बाद में उपयोग के लिए कुछ अनियमित टिप्पणियाँ।
 site_author: Abhijit Bose (aka. boseji)
 copyright: >-
-  Copyright &copy; 1998 - 2024 
+  Copyright &copy; 1998 - 2026 
   <a href="https://github.com/boseji" targe="_blank" rel="noopener">Abhijit Bose (aka. boseji)</a>. 
   All rights reserved. Unless otherwise specified, content licensed under
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" targe="_blank" rel="noopener"><code style="background-color: indigo;color: white;font-size: +1.3em;">SPDX: CC-BY-NC-ND-4.0</code></a>
@@ -59,7 +59,8 @@ theme:
         name: Light mode
 
   font:
-    text: Open Sans
+    false
+    # text: Open Sans
     # code: Consolas
 
   icon:
@@ -81,9 +82,12 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
-  extra_css:
-    - _site/mkdocs-extra.css
-  extra_javascript:
+extra_css:
+  - _site/mkdocs-extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/tex-mml-chtml.js
 
 plugins:
   - search:
@@ -118,9 +122,9 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  - admonition
   - pymdownx.arithmatex:
       generic: true
+  - admonition
   - footnotes
   - def_list
   - pymdownx.details

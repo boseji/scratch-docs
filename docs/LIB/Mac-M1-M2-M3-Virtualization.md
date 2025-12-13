@@ -9,8 +9,8 @@
 ![type:video](https://www.youtube.com/embed/7GGLi10sHDs)
 
 > I'm amazed this is even possible! Running so many hypervisors and so many virtual machines at the same time? x86 and x64 and ARM all at the same time? Impossible some may say.... well.... let's see shall we?
-> 
-> Doesn't matter if you want to be an Ethical hacker, or developer, or a network engineer, or work with AI, or computer science.... virtualization is a core skill in Information Technology - and you need to learn this. 
+>
+> Doesn't matter if you want to be an Ethical hacker, or developer, or a network engineer, or work with AI, or computer science.... virtualization is a core skill in Information Technology - and you need to learn this.
 >
 > Learning about Virtual Machines, Type 1 and Type 2 Hypervisors and basic virtualization can really change your life. This is a core skill.
 
@@ -32,7 +32,7 @@ UTM is and always will be completely free and open source. The Mac App Store ver
 
 [How To Download and Install UTM on iPhone & iPad: 3 Methods](https://www.macobserver.com/iphone/download-install-utm-iphone-ipad/)
 
-> Virtual machines (VMs) let you run software programs that aren’t originally intended for your device. With many apps restricted to Windows, using VMs is a somewhat common practice among Mac users. One of the most popular virtualization apps, UTM, has also been released recently on iPhone and iPad. Here’s everything you should know before installing it. 
+> Virtual machines (VMs) let you run software programs that aren’t originally intended for your device. With many apps restricted to Windows, using VMs is a somewhat common practice among Mac users. One of the most popular virtualization apps, UTM, has also been released recently on iPhone and iPad. Here’s everything you should know before installing it.
 
 Local **[PDF](./How-To-Download-and-Install-UTM-on-iPhone-and-iPad_3-Methods.pdf)** for the same article.
 

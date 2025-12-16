@@ -223,6 +223,36 @@ A special Sieve:
 >
 > **Steve Harvey**
 
+## Feb 7,2024
+
+### Non Working Sieve
+
+Actual print failed. Need to optimize aperture and density in model.
+
+![Sieve - failed print part1](./Thoughts/2024-02-07-p1.jpg "Sieve - failed print part1")
+
+![Sieve - failed print part2](./Thoughts/2024-02-07-p2.jpg "Sieve - failed print part2")
+
+![Sieve - failed print part3](./Thoughts/2024-02-07-p3.jpg "Sieve - failed print part3")
+
+### Excellent gap measurement Tool
+
+1-10mm Thickness Gauge a useful tool:
+
+![Gap Thickness Measurement Tool](./Thoughts/2024-02-07-thickness-tool1.jpg "Gap Thickness Measurement Tool")
+
+![Gap Thickness Measurement Tool](./Thoughts/2024-02-07-thickness-tool2.jpg "Gap Thickness Measurement Tool")
+
+### Soldering Iron Stand
+
+Soldering Iron stand special for USB DC5525 unit:
+
+![Soldering Iron Stand](./Thoughts/2024-02-07-Soldering-Iron-Stand1.jpg "Soldering Iron Stand")
+
+![Soldering Iron Stand](./Thoughts/2024-02-07-Soldering-Iron-Stand2.jpg "Soldering Iron Stand")
+
+![Soldering Iron Stand](./Thoughts/2024-02-07-Soldering-Iron-Stand3.jpg "Soldering Iron Stand")
+
 ----
 <!-- Footer Begins Here -->
 ## Links

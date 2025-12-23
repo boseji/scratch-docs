@@ -253,6 +253,41 @@ Soldering Iron stand special for USB DC5525 unit:
 
 ![Soldering Iron Stand](./Thoughts/2024-02-07-Soldering-Iron-Stand3.jpg "Soldering Iron Stand")
 
+## Feb 8,2024
+
+### Windows Disk Encryption broken BitLocker no more
+
+**[Beating Bitlocker In 43 Seconds](https://hackaday.com/2024/02/06/beating-bitlocker-in-43-seconds/)**
+How long does it take to steal your Bitlocker keys? Try 43 seconds, using less than $10 in hardware. Encrypting your hard drive is good security.
+
+![Raspberry Pi Pico used to decrypt Windows BitLocker](./Thoughts/2024-02-08.jpg "Raspberry Pi Pico used to decrypt Windows BitLocker")
+
+Similar exploit exists for LUKS as well.
+
+## Feb 9,2024
+
+> What comes easy won’t last,
+>
+> What lasts won’t come easy.
+>
+> **A Mathematician**
+
+## Feb 11,2024
+
+> Grades are nothing more than small steps.
+>
+> What's important is where you let them lead you.
+>
+> **Wise old school teacher**
+
+## Recycling Cans to make Aluminum and then making Cans from them
+
+<https://www.youtube.com/watch?v=DQZtv2-TWhQ>
+
+![type:video](https://www.youtube.com/embed/DQZtv2-TWhQ)
+
+Nice knowhow on recycling of Aluminum
+
 ----
 <!-- Footer Begins Here -->
 ## Links
